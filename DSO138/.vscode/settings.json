@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "board.h": "c",
+        "common.h": "c",
+        "eeprom.h": "c"
+    }
+}
